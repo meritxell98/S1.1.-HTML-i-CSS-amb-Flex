@@ -28,6 +28,11 @@ nav{
     margin-left: 20px;
 }
 
+.nav1:hover{
+    background-color: pink;
+    transform: scale(1.2);
+}
+
 .nav2 {
     flex: 2;
 }
