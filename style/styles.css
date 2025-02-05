@@ -136,6 +136,11 @@ footer p {
 
     /*BODY*/
 
+    body{
+        background-color: yellow;
+    }
+
+
     section {
        display: flex;
        flex-direction: column;
@@ -151,6 +156,10 @@ footer p {
 /*For phones*/
 
 @media only screen and (max-width: 600px) {
+
+    body{
+        background-color: beige;
+    }
 
     .inside-article {
         display: flex;
