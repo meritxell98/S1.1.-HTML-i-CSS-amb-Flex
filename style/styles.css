@@ -147,3 +147,15 @@ footer p {
     }
     
 }
+
+/*For phones*/
+
+@media only screen and (max-width: 600px) {
+
+    .inside-article {
+        display: flex;
+        flex-direction: column;
+    
+    }
+    
+}
